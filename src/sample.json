@@ -1,0 +1,22 @@
+[{
+        "id": "1",
+        "title": "Fast & Furious",
+        "director": "Ni idea",
+        "year": "2015",
+        "raiting": "9.5"
+    },
+    {
+        "id": "2",
+        "title": "James 007",
+        "director": "Carl H.S.",
+        "year": "2010",
+        "raiting": "8.5"
+    },
+    {
+        "id": "3",
+        "title": "Hitman",
+        "director": "Absolute",
+        "year": "2012",
+        "raiting": "9.1"
+    }
+]
